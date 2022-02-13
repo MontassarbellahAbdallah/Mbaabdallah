@@ -51,6 +51,7 @@
       </tr>
     </tbody>
 </table>
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
