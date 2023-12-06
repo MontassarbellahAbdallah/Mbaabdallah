@@ -2,7 +2,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="75px"/></a>
 
-<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/montassar-bellah-abdallah-444931168/">Montassar bellah Abdallah </a> - aka MBA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://www.linkedin.com/in/montassar-bellah-abdallah-444931168/">Montassar bellah Abdallah </a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
   <a href="https://www.youtube.com/channel/UCN0PetcyO42tOKAcrp1mODA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
