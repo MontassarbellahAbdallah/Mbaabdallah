@@ -14,8 +14,7 @@
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
-* 🎓 I graduated in 2022 with high honors in Information Systems Development.
-      Currently, I am pursuing my engineering degree in the public sector, specializing in Teleinformatics.
+* 🎓 I graduated in 2022 with high honors in Information Systems Development.Currently, I am pursuing my engineering degree in the public sector, specializing in Teleinformatics.
 * 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/channel/UCN0PetcyO42tOKAcrp1mODA)
 <table>
     <tbody>
