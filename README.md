@@ -51,8 +51,7 @@
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
             </td>
-          
-      </tr>
+          </tr>
     </tbody>
 </table>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
@@ -61,7 +60,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Mbaabdallah&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mbaabdallah)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Mbaabdallah&theme=material-palenight)](https://github.com/Mbaabdallah)
+<!--[![](https://github-readme-streak-stats.herokuapp.com/?user=Mbaabdallah&theme=material-palenight)](https://github.com/Mbaabdallah)-->
 </div>
 
  <p align="center">
