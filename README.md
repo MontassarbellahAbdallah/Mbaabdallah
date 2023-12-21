@@ -56,17 +56,17 @@
 </table>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
-<div align="center">
+<!--<div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=Mbaabdallah&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mbaabdallah)
-<!--[![](https://github-readme-streak-stats.herokuapp.com/?user=Mbaabdallah&theme=material-palenight)](https://github.com/Mbaabdallah)-->
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Mbaabdallah&theme=material-palenight)](https://github.com/Mbaabdallah)
 </div>
 
  <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
-</p>
+</p>-->
 
 <!--
 **Mbaabdallah/Mbaabdallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
